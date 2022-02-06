@@ -173,7 +173,7 @@
     left: 0.5vw;
 }
 .meridiem-indicator{
-    background-image: url(./AM_svg.svg) ;
+    background-image: url(AM_svg.svg) ;
     background-repeat: no-repeat;
     background-size: cover;
     color: #FFFFFF;
